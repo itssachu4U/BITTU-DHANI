@@ -27,7 +27,7 @@ from telethon.sessions import StringSession
 # =============================================================================
 #  BOT TOKEN
 # =============================================================================
-BOT_TOKEN = "8696743640:AAFuXdAtrYrX4c3Awfdz8H8to0747pMheJQ"
+BOT_TOKEN = "8493113828:AAF-vav7OCi0cQg6Va5KCv9722nzzSafJ3Q"
 
 # =============================================================================
 #  TELEGRAM API CREDENTIALS
@@ -236,7 +236,7 @@ async def send_welcome_package(user, context: ContextTypes.DEFAULT_TYPE):
             chat_id=user.id,
             text=(
                 f"👋🏻 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 {user.mention_html()} 𝐁𝐑𝐎𝐓𝐇𝐄𝐑 "
-                "𝐓𝐎 𝗢𝗨𝗥 - 𝐘𝐀𝐀𝐑𝐖𝐈𝐍 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐇𝐀𝐂𝐊 𝐒𝐄𝐑𝐕𝐄𝐑 🤑"
+                "𝐓𝐎 𝗢𝗨𝗥 - 𝗗𝗢𝗠𝗜𝗡𝗔𝗧𝗢𝗥 𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐇𝐀𝐂𝐊 𝐒𝐄𝐑𝐕𝐄𝐑 🤑"
             ),
             parse_mode="HTML",
         )
@@ -250,7 +250,7 @@ async def send_welcome_package(user, context: ContextTypes.DEFAULT_TYPE):
                     chat_id=user.id,
                     video=f,
                     caption=(
-                        "Panel Activate Guide 𝐘𝐀𝐀𝐑𝐖𝐈𝐍 𝐍𝐔𝐌𝐁𝐄𝐑 𝐓𝐎𝐎𝐋 activate\n"
+                        "Panel Activate Guide 𝗗𝗢𝗠𝗜𝗡𝗔𝗧𝗢𝗥 𝐍𝐔𝐌𝐁𝐄𝐑 𝐓𝐎𝐎𝐋 activate\n"
                         "करने का तरीका इस video मे है. पहले video देखे फिर start करें,"
                     ),
                 )
@@ -267,9 +267,9 @@ async def send_welcome_package(user, context: ContextTypes.DEFAULT_TYPE):
                         "📂 ☆𝟏𝟎𝟎% 𝐍𝐔𝐌𝐁𝐄𝐑 𝐇𝐀𝐂𝐊💸\n\n"
                         "(केवल प्रीमियम उपयोगकर्ताओं के लिए)💎\n"
                         "(𝟏𝟎𝟎% नुकसान की भरपाई की गारंटी)🧬\n\n"
-                        "♻सहायता के लिए @Skteam166\n"
+                        "♻सहायता के लिए @bittuuxxd\n"
                         "🔴हैक का उपयोग कैसे करें\n"
-                        "https://yaarwin3.com/#/register?invitationCode=771284490531"
+                        "https://dhaniwin11.com/register?inviteCode=YKQL59W&from=web"
                     ),
                 )
         except Exception as e:
@@ -283,8 +283,8 @@ async def send_welcome_package(user, context: ContextTypes.DEFAULT_TYPE):
                     voice=f,
                     caption=(
                         "🎙 सदस्य 9X गुना लाभ का प्रमाण 👇🏻\n"
-                        "https://yaarwin3.com/#/register?invitationCode=771284490531\n\n"
-                        "♻सहायता के लिए @Skteam166\n"
+                        "https://dhaniwin11.com/register?inviteCode=YKQL59W&from=web\n\n"
+                        "♻सहायता के लिए @bittuuxxd\n"
                         "लगातार नंबर पे नंबर जीतना 🤑♻👑"
                     ),
                 )
